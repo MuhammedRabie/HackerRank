@@ -10,5 +10,3 @@ The solutions in this repository are categorized into the following problem doma
 - [Arrays and Strings](C%20Language/Arrays%20and%20Strings)
 - [Functions](C%20Language/Functions)
 - [Structs and Enums](C%20Language/Structs%20and%20Enums)
-- [Pointers](C%20Language/Pointers)
-- [File Handling](C%20Language/File%20Handling)
