@@ -4,8 +4,8 @@ This repository contains C solutions to various problems from the HackerRank C d
 The problems solved in this repository are:[https://www.hackerrank.com/domains/c]]
 ### Problem Categories
 The solutions in this repository are categorized into the following problem domains:
-- [Introduction](Introduction)
-- [Conditionals and Loops](Conditionals_and_Loops)
+- [Introduction](C_Language/Introduction)
+- [Conditionals and Loops](C_Language/Conditionals_and_Loops)
 - [Arrays and Strings](Arrays_and_Strings)
 - [Functions](Functions)
 - [Structs and Enums](Structs_and_Enums)
