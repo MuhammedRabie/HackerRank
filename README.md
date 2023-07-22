@@ -1,7 +1,8 @@
 # HackerRank
 This repository contains C solutions to various problems from the HackerRank C domain.
 ## Problems
-The problems solved in this repository are:[https://www.hackerrank.com/domains/c]]
+The problems solved in this repository:
+* [https://www.hackerrank.com/domains/c]]
 ### Problem Categories
 The solutions in this repository are categorized into the following problem domains:
 - [Introduction](C%20Language/Introduction)
